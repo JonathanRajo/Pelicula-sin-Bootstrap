@@ -1,0 +1,328 @@
+a, a:link, a:visited{
+    text-decoration: none;
+    
+}
+.logo img{
+    margin-top: 10px;
+}
+.bienvenida h4{
+    font-size: 2.5em;
+}
+body{
+    background: #e5e5e5;
+}
+.sildes{
+    position: relative;
+}
+.cabecera{
+    background-image: url(../img/1.jpg);
+    width: 100%
+}
+.proyecto-home p{
+      font-size: 1.3em !important;
+    
+}
+.des h3{
+    color: aliceblue;
+    font-size: 2.5em;
+}
+.des p{
+    color: #bebebe;
+    font-size: 1.5em;
+}
+hr{
+    background:  #009dff !important
+}
+.infpe{
+    font-size: 2.5em !important;
+}
+.titulo-articulo{
+    font-size: 3.0em;
+    text-align: center;
+    color: #009dff !important;
+}
+.excerpt p{
+    font-size: 1.3em !important;
+}
+.personajes img{
+    height: 300px;
+}
+#cuerpo2{
+      background-image: url(../img/image.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+.bienvenida p{
+    font-size: 1.3em;
+    width: 100% !important;
+}
+.header{
+    width: 100%;
+    background-image: url(../img/1.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin:0;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.slides li{
+    padding: 100px 0;
+}
+li.slides2{
+   background: #0a6d91; 
+}
+li.slides1{
+   background: #0e96dd; 
+}
+
+.indormacion-slider{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+article.proyecto-home{
+    background: #d0d0d0;
+    padding: 20px 25px;
+}
+article.proyecto-home p{
+    color: #1a2128;
+}
+a.ver-proyectos{
+    background: #1a2128;
+    padding: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 15px;
+    position: relative;
+    top: 35px;
+}
+.proyecto-home img{
+    width: 60%;
+    margin-bottom: 20px;
+}
+h3.titulo{
+  
+    font-size: 24px;
+    color: #fff;
+    
+}
+p.mensaje-bienvenida{
+    color: #687078;
+    width: 40%;
+    margin: 0 auto;
+}
+h4.titulo-bienvenida{
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+p.descripcion{
+    font-size: 16px;
+    color: #233939;
+    background: rgba(255,255,255,.5);
+    padding: 15px;
+    margin: 20px 0;
+}
+a.btn-slider{
+    background: #187996;
+    padding: 12px;
+    color: #fff;
+    margin-top: 10px;
+    display: inline-block;
+    
+}
+.imagen-slider{
+    height: 40px;
+    position: relative;
+}
+.imagen-slider img{
+    margin: 0 auto;
+    display: table;
+    position: relative;
+    top: 50%;
+    
+}
+section.bienvenida{
+    background: #1a2128;
+    padding: 30px 0;
+}
+.cuerpo-home{
+    padding: 40px 0;
+}
+h5.titulo-articulo{
+    color: #3c1c22;
+}
+hr{
+    height: 1px;
+    background: #a29d9d;
+}
+header h3 a{
+    font-weight: 700;
+    font-size: 18px;
+}
+ul.info{
+    margin: 20px 0;
+    padding: 0;
+}
+a.post-link{
+    text-decoration: underline;
+}
+ul.info li{
+    display: inline-block;
+    margin-right: 10px;
+}
+ul.info li a{
+    color: #f55959;
+}
+footer.pie-pagina{
+    background: #d3ded3;
+    padding: 30px 0;
+    border-top: 30px solid #000;
+    margin-top: 10px;
+    
+}
+.iconos-redes a{
+    background: #8a8787;
+    color: #fff;
+    width: 37px;
+    height: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    line-height: 35px;
+    font-size: 25px;
+}
+.iconos-redes li{
+    list-style: none;
+}
+.iconos-redes a:hover{
+    background: blue;
+}
+
+
+#section{
+    
+    
+}
+.portafolio {
+    padding: 10px
+}
+h3.subtitulo{
+    color: #1bc1c1;
+    font-size: 29px;
+    font-weight: bold;
+    
+}
+.portafolio-header{
+    margin: 1.5em 0;
+}
+a.active{
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+.portafolio-header li a{
+    color: #ff8000;
+}
+.portafolio-header li{
+    display: inline-block;
+    margin: 30px;
+}
+.borde{
+    border: 1px solid #dcdcdc;
+    padding: 5px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+}
+.portafolio-entrada{
+    margin-bottom: 20px;
+}
+.portafolio-entrada .estado-hover{
+    padding: 5em 0;
+    position: absolute;
+    width: 90%;
+    display: none;
+    
+}
+.portafolio-entrada:hover .estado-hover{
+    
+    display:block;
+    
+    
+}
+.portafolio-entrada:hover img{
+    
+   transition: opacity .5s ease-out;
+    opacity: 0.2;
+       
+    
+}
+.estado-hover h4{
+    color: red;
+    font-weight: bold;
+    color: #ff8000;
+}
+
+.escondidas{
+    opacity: .3;
+    
+    
+}
+
+
+
+p{
+    margin: 20px 0;
+}
+#mifoto{
+    width: 20%;
+    border: 10px solid #dedede;
+}
+.text-success2{
+    color: #a6c63a;
+}
+blockquote.testimonios p, blockquote.testimonios footer{
+    font-size: 15px;
+    padding:0 30px;
+}
+img.comilla{
+    position: absolute;
+    float: left;
+    top: 30px;
+}
+
+#foto{
+       width: 65%;
+    margin-top: 20px;
+    border: 10px solid #dedede;
+}
+p.metadatos a{
+    color: red;
+}
+p.leermas a{
+    color:green;
+    text-decoration: underline;
+}
+.cuerpo{
+    background-color: #ffffff;
+}
+#cuerpo1{
+    background-image:  url("../img/Captura.PNG")
+}
+#cuerpo2{
+    
+    width: 100%
+}
+div.row.post-bloque{
+    margin-bottom: 30px;
+}
+
+
+form.contacto input.form-control, form.contacto textarea.form-control{
+    background-color: #dddddd;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+}
+
